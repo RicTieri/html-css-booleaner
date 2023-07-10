@@ -1,11 +1,26 @@
 *{
   margin: 0;
+  font-family: 'Roboto Slab', serif;
 }
+
+/* general */
 
 header{
   background-image: url(../img/pattern.png);
   height: 80px;
+  background-size: contain;
+  background-color: #4EA0FF;
 }
+
+main{
+  padding: 10px;
+}
+
+
+
+
+
+/* detail */
 
 h1{
   margin-left: 20px;
@@ -14,4 +29,16 @@ h1{
 h3{
   padding: 0;
   margin-left: 30px;
+}
+
+h1, h3{
+  color: rgb(255, 255, 255);
+}
+
+#autore{
+  color: #00AAE4;
+}
+
+.didascalia{
+  font-size: 8px;
 }
