@@ -13,12 +13,8 @@ header{
 }
 
 main{
-  padding: 10px;
+  padding: 20px;
 }
-
-
-
-
 
 /* detail */
 
@@ -41,4 +37,26 @@ h1, h3{
 
 .didascalia{
   font-size: 8px;
+}
+
+#article{
+  padding: 20px;
+}
+
+ul{
+  padding: 20px;
+}
+
+#yellow{
+  display: block;
+  background-color: yellow;
+}
+
+thead{
+  background-color: #23A9E5;
+  color: white;
+}
+
+#row-1, #row-2{
+  background-color: #B1E5F2;
 }
