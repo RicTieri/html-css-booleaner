@@ -57,6 +57,28 @@ thead{
   color: white;
 }
 
+tr{
+  height: 60px;
+  width: 100%;
+}
+
 #row-1, #row-2{
   background-color: #B1E5F2;
+}
+
+#interest{
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.img{
+  position: relative;
+}
+.name{
+  position: absolute;
+  color: white;
+  padding: 20px;
+}
+
+.link{
+  margin-top: 20px;
 }
